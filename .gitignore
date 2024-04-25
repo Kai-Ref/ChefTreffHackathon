@@ -154,6 +154,10 @@ cython_debug/
 
 # unused Folders
 txt/
+first_tier_data_set.csv
+first_tier_prices_actual.csv
+first_tier_prices_forecast.csv
+
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
